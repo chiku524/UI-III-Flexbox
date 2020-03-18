@@ -111,7 +111,7 @@ header .imageContainer img {
     justify-content: space-between;
 }
 
-@media only screen and {max-width: 600px}{
+@media only screen and (max-width: 600px){
     .mainContent {
         display: flex;
         flex-wrap: nowrap;
