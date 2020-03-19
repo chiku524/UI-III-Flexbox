@@ -193,11 +193,6 @@ header .imageContainer img {
     margin-left: 60px;
 }
 
-.bottomContent .image img {
-    width: 132.5%;
-    height: 75%;
-}
-
 .bottomContent .content .thingList {
     list-style-type: square;
     margin-left: 20px;
