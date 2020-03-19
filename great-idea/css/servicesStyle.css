@@ -117,6 +117,17 @@ header .imageContainer img {
         flex-direction: column;
         align-content: center;
         align-items: center;
+        justify-content: center;
+        justify-items: center;
+        width: 100%;
+    }
+
+    .bottomContent .image {
+        display: none;
+    }
+
+    .bottomContent {
+        width: 100%;
     }
 }
 
