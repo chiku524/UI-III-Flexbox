@@ -80,7 +80,7 @@ body nav.navigation:hover {
 
 body nav.navigation a {
   text-decoration: none;
-  padding: 40px;
+  padding: 20px;
   margin: 15px;
   color: darkgrey;
 }
@@ -98,7 +98,6 @@ body nav.navigation a:hover {
 
 body nav.navigation img.logo {
   padding-left: 30px;
-  display: inline-block;
 }
 
 .header {
@@ -149,7 +148,7 @@ body nav.navigation img.logo {
 
 .top-content {
   margin: 30px;
-  display: inline-block;
+  display: flex;
   border-top: 2px solid black;
 }
 
@@ -173,7 +172,7 @@ center .middle-img {
 
 .bottom-content {
   margin: 30px;
-  display: inline-block;
+  display: flex;
   width: auto;
   border-bottom: 2px solid black;
   height: 160px;
