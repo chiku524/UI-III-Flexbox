@@ -192,3 +192,9 @@ footer {
   text-align: center;
   margin-bottom: 40px;
 }
+
+center .midpage {
+  height: 172px;
+  width: 97%;
+  background-image: url('../img/mid-page-accent.jpg');
+}
