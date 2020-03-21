@@ -66,12 +66,14 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 body nav.navigation {
-  text-align: center;
+  display: flex;
+  justify-content: space-around;
   position: fixed;
   background-color: purple;
   z-index:2;
   width: 100%;
   margin-top: -50px;
+  height: 5%;
 }
 
 body nav.navigation:hover {
@@ -81,7 +83,7 @@ body nav.navigation:hover {
 body nav.navigation a {
   text-decoration: none;
   padding: 20px;
-  margin: 15px;
+  margin: 0px 15px 0px;
   color: darkgrey;
 }
 
@@ -97,7 +99,7 @@ body nav.navigation a:hover {
 }
 
 body nav.navigation img.logo {
-  padding-left: 30px;
+  padding-left: 0px;
 }
 
 .header {
